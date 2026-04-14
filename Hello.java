@@ -1,6 +1,4 @@
-import java.util.Random;
-
-public class RandomFibonacci {
+public class Hello {
     public static void main(String[] args) {
         Random random = new Random();
 
